@@ -1,0 +1,2 @@
+# FAQS
+Created with CodeSandbox
